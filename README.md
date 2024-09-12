@@ -1,2 +1,0 @@
-# AdminPortalAuth
-API-Auth
